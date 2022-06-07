@@ -1,2 +1,2 @@
 # Practice
-Various operations based on with these libraries.  
+Various operations with these libraries.  
