@@ -1,2 +1,2 @@
 # Practice
-Pandas, Numpy and Matplotlib operations  
+Various operations based on the libraries.  
